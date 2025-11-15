@@ -5,6 +5,9 @@ simple PLC Crossroad Traffic Light
 
 This PLC project simulates a **traffic light control system** for a four-way intersection.
 
+![Traffic-light-controlled-crossroad1](https://github.com/user-attachments/assets/56ee92ea-4ecc-4139-8baa-921053c6189a)
+
+
 ### Logic Overview
 
 - **Network 1** controls **Green 1**, **Yellow 1**, **Green 2**, and **Yellow 2** lights.  
