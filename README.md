@@ -32,7 +32,7 @@ This mechanism ensures smooth traffic flow and prevents intersection blocking.
 
 
 ## Author
-**Melika shahbazi zade
+Melika shahbazi zade
 Electrical Engineer | Control Systems
 contact: melikashahbazizade@gmail.com
 
